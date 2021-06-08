@@ -13,4 +13,4 @@ def collatz_steps(n :int) -> int:
 i = 1
 while True:
     print(i, collatz_steps(i))
-    i += 1
+    i += 1{}
